@@ -16,5 +16,9 @@
 <img width="305" alt="7" src="https://user-images.githubusercontent.com/76138672/176198763-5c164eae-fb35-43ba-9496-bed6222c1342.png">
 8. Full Outer Join
 <img width="301" alt="8" src="https://user-images.githubusercontent.com/76138672/176199034-c8d796f1-35b2-4bc2-a0d7-3b13e33f1928.png">
+
+Data
+http://data.kalbarprov.go.id/dataset/perbandingan-luas-panen-produksi-dan-produktivitas-tanaman-buah-sayuran-di-prov-kalbar-tahun-2011
+
 Video
 https://drive.google.com/file/d/1qLuJXuZuTcnwuN1z609Cfa0ib4O4d_mR/view?usp=sharing
